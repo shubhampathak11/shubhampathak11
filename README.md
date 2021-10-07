@@ -7,4 +7,13 @@
 <!---
 shubhampathak11/shubhampathak11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<<<<<<< HEAD
 --->
+=======
+--->
+.
+.
+shubhaam p ............
+.///
+//. ,..
+>>>>>>> a43e92f8c668659262932c8adc30ac15671e29f3
